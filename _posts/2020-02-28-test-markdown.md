@@ -13,4 +13,4 @@ Reddit Reader automates your youtube uploads so you have full control over your 
 
 **Reddit Reader is open source and it does not use any of your data. Our Youtube Data Api usage is only limited to video uploads.**
 
-[Privacy Policy](https://www.freeprivacypolicy.com/live/b43606b2-8558-4fba-ae93-d2ff805139bc)
+[Privacy Policy](https://mgkan.github.io/reddit-reader/privacy-policy)
